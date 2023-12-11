@@ -1,0 +1,2 @@
+This is a Neural Network model to detect if a person willing to get a loan gets approved from the bank for a loan using various parameters.
+The model produces an accuracy of ~ 80% and an F1 score of 87%.
